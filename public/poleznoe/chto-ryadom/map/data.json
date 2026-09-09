@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature", 
+            "id": 0, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [55.847796, 37.360052]
+            }, 
+            "properties": {
+                "balloonContent": "Продукты", 
+                "balloonContentHeader": "Гастроном «Стандарт»", 
+                "balloonContentBody": "<b>Адрес:</b> Москва, улица Митинская, 40<br><a target='_blank' href='http://standart-mitino.ru'>Перейти на сайт</a>", 
+                "clusterCaption": "Гастроном «Стандарт»", 
+                "hintContent": "Продукты", 
+                "iconCaption": "Гастроном «Стандарт»"
+            }, 
+            "options": {
+                "preset": "islands#blueCircleDotIconWithCaption"
+            }
+        },
+        {
+            "type": "Feature", 
+            "id": 1, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [55.852521, 37.351914]
+            }, 
+            "properties": {
+                "balloonContent": "Продукты", 
+                "balloonContentHeader": "ВкусВилл", 
+                "balloonContentBody": "<b>Адрес:</b> Москва, улица Митинская, 51<br><a target='_blank' href='https://vkusvill.ru'>Перейти на сайт</a>", 
+                "clusterCaption": "ВкусВилл", 
+                "hintContent": "Продукты", 
+                "iconCaption": "ВкусВилл"
+            }, 
+            "options": {
+                "preset": "islands#blueCircleDotIconWithCaption"
+            }
+        },
+        {
+            "type": "Feature", 
+            "id": 2, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [55.852521, 37.351914]
+            }, 
+            "properties": {
+                "balloonContent": "Продукты", 
+                "balloonContentHeader": "МясновЪ", 
+                "balloonContentBody": "<b>Адрес:</b> Москва, улица Митинская, 51<br><a target='_blank' href='https://www.myasnov.ru'>Перейти на сайт</a>", 
+                "clusterCaption": "МясновЪ", 
+                "hintContent": "Продукты", 
+                "iconCaption": "МясновЪ"
+            }, 
+            "options": {
+                "preset": "islands#blueCircleDotIconWithCaption"
+            }
+        },
+        {
+            "type": "Feature", 
+            "id": 3, 
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [55.835842, 37.385897]
+            }, 
+            "properties": {
+                "balloonContent": "Развлечение", 
+                "balloonContentHeader": "Бильярдный клуб «Легенда»", 
+                "balloonContentBody": "<b>Адрес:</b> Москва, Пятницкое шоссе, 3, ТЦ «Пятница», 2 этаж<br><a target='_blank' href='https://legendbc.ru'>Перейти на сайт</a>", 
+                "clusterCaption": "Бильярдный клуб «Легенда»", 
+                "hintContent": "Развлечение", 
+                "iconCaption": "Бильярдный клуб «Легенда»"
+            }, 
+            "options": {
+                "preset": "islands#greenCircleDotIconWithCaption"
+            }
+        }
+    ]
+}

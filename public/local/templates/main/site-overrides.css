@@ -1,0 +1,21 @@
+html,
+body {
+	width: 100%;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+footer {
+	width: 100%;
+	max-width: 100%;
+}
+
+.footer-bottom,
+.copyright {
+	width: 100%;
+	max-width: none;
+}
+
+.slider-wrapper.slider-height {
+	width: 100%;
+}

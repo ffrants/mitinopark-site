@@ -1,0 +1,143 @@
+body {
+	color:#000;
+	font-family: "Open Sans", Arial, sans-serif;
+	left: 0;
+	margin: 0;
+	position: relative;
+}
+
+a {
+	color: #2884bf;
+	outline:none;
+	text-decoration: none;
+	transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+	-ms-transform: all 0.2s ease;
+}
+
+a:hover,
+a:focus {
+	color: #C76E40;
+	text-decoration: none;
+	outline:none;
+}
+
+h1 {
+    font-size: 2.3rem;
+    font-weight: 600;
+	color: #353535;
+	margin: 0;
+}
+
+h2 a,
+.list-group-item h3 a{
+	color: #262626;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+
+.top {
+	font-size: 0.9rem;
+	padding: 0.7rem 0;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.top a {
+	color: #262626;
+}
+
+.top a:hover {
+	color: #C76E40;
+}
+
+.top-menu {
+	vertical-align: bottom;
+	margin-bottom: 9px;
+}
+
+.top-menu a {
+	margin-right: 1rem;
+	color: #717171;
+}
+
+.top-menu-mobile a {
+	color: #717171;
+}
+
+.logo {
+	margin-right: 2rem;
+}
+
+.p-top {
+	padding-top: 0.5rem;
+}
+
+.slider-home {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	margin-bottom: 30px;
+	height: 200px;
+}
+
+.chats img {
+    max-width: 100%;
+}
+
+.section-title {
+	margin-bottom: 30px;
+    text-align: center;
+}
+
+.common {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.copyright {
+	background-color: #262626;
+    color: #f5f5f5;
+}
+
+body th {
+	background-color: #eeffef;
+	text-align: center;
+}
+
+body td {
+	text-align: center;
+}
+
+.flat-active {
+    background-color: #be7449;
+    color: #fff;
+}
+
+#plan img {
+    width: 100%;
+}
+
+body td {
+    color: #ccc;
+}
+
+@media (max-width: 767px) {
+	h2 {
+		font-size: 1.6rem;
+	}
+
+	.p-top {
+		padding-top: 0;
+	}
+
+	.common {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.more {
+		text-align: center;
+	}
+}
